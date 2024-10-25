@@ -32,10 +32,10 @@ With 10+ years of experience in digital transformation and project management, I
 ### Featured Projects
 
 <details>
-  <summary>Click me</summary>
+<summary>
 #### Depth Planes Generator
 **Description:** AI solution that generates depth maps from 2D images, enabling the creation of three-dimensional scene understanding from single images.
-
+</summary>
 **Challenge:** Implementing and comparing different deep learning architectures (autoencoder, U-net, MiDaS 3.0) to find the most effective approach for depth prediction while ensuring scalability on GCP.
 
 **Technologies:** Python, Tensorflow, MiDaS 3.0, Google Cloud Platform, Streamlit
