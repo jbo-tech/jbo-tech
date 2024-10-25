@@ -62,9 +62,9 @@ With 10+ years of experience in digital transformation and project management, I
 - Email: [jean-baptiste@olivier.contact](mailto:jean-baptiste@olivier.contact)
 - LinkedIn: [jbolivier](https://www.linkedin.com/in/jbolivier)
 
-<details>
-<summary>
-</summary>
-</details>
 ---
 *Last Updated: 26/10/2024*
+
+<details>
+<summary></summary>
+</details>
