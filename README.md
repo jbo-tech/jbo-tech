@@ -46,13 +46,13 @@ With 10+ years of experience in digital transformation and project management, I
 </details>
 
 #### AudioScribe
-**Description:** Educational project focused on building a platform that converts various audio sources into text transcriptions.
-
-**Challenge:** Learning to integrate and orchestrate multiple third-party APIs (ListenNotes, Spotify, YouTube, AssemblyAI) into a cohesive application while managing different data formats and authentication methods.
-
-**Technologies:** Python, Streamlit, RESTful APIs (AssemblyAI, ListenNotes, Spotify, YouTube)
-
-**Repository:** [AudioScribe](https://github.com/jbo-tech/audioscribe)
+> **Description:** Educational project focused on building a platform that converts various audio sources into text transcriptions.
+>
+> **Challenge:** Learning to integrate and orchestrate multiple third-party APIs (ListenNotes, Spotify, YouTube, AssemblyAI) into a cohesive application while managing different data formats and authentication methods.
+>
+> **Technologies:** Python, Streamlit, RESTful APIs (AssemblyAI, ListenNotes, Spotify, YouTube)
+>
+> **Repository:** [AudioScribe](https://github.com/jbo-tech/audioscribe)
 
 ### Key Skills
 - Data Analysis & Machine Learning
