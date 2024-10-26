@@ -38,7 +38,7 @@ With 10+ years of experience in digital transformation and project management, I
 >
 > **Technologies:** Python, Tensorflow, MiDaS 3.0, Google Cloud Platform, Streamlit
 >
-> **Links:**
+> **Repository:**
 > - [Frontend Repository](https://github.com/Depth-Plans/Front-Depth_plans)
 > - [Backend Repository](https://github.com/Depth-Plans/Back-Depth_plans)
 
@@ -50,6 +50,15 @@ With 10+ years of experience in digital transformation and project management, I
 > **Technologies:** Python, Streamlit, RESTful APIs (AssemblyAI, ListenNotes, Spotify, YouTube)
 >
 > **Repository:** [AudioScribe](https://github.com/jbo-tech/audioscribe)
+
+#### Coda.io Telegraph Pack
+**Description:** Integration pack that brings Telegraph's minimalist publishing capabilities directly into Coda.io, enabling efficient content management and collaboration.
+
+**Challenge:** Developing bidirectional content conversion between Coda.io's rich text format and Telegraph's specific DOM structure, requiring complex HTML parsing and custom node transformation to maintain content fidelity across platforms.
+
+**Technologies:** TypeScript, Coda SDK, Telegraph API, HTML Parser, DOM Manipulation
+
+**Repository:** [Coda Telegraph Pack](https://github.com/jbo-tech/coda-pack-telegra.ph)
 
 ### Key Skills
 - Data Analysis & Machine Learning
