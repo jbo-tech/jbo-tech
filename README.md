@@ -42,6 +42,16 @@ With 10+ years of experience in digital transformation and project management, I
 > - [Frontend Repository](https://github.com/Depth-Plans/Front-Depth_plans)
 > - [Backend Repository](https://github.com/Depth-Plans/Back-Depth_plans)
 
+#### Job Set & Match
+> **Description:** AI-powered job application assistant that analyzes job offers and generates tailored application materials using Claude AI, helping to streamline the job search process.
+> **Description:** AI-powered job application assistant that evaluates the fit between a candidate's profile and job offers by analyzing compatibility, generating detailed assessments and providing tailored application materials using Claude AI.
+>
+> **Challenge:** Implementing efficient PDF processing and prompt engineering to extract relevant information from job offers and generate personalized cover letters. Managing API costs and cache strategy while ensuring accurate analysis of job requirements against personal profile.
+>
+> **Technologies:** Python, Anthropic Claude AI, Streamlit, PDF Processing
+>
+> **Repository:** [Job Set & Match](https://github.com/jbo-tech/job-set-match)
+
 #### AudioScribe
 > **Description:** Educational project focused on building a platform that converts various audio sources into text transcriptions.
 >
