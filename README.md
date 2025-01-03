@@ -44,7 +44,6 @@ With 10+ years of experience in digital transformation and project management, I
 
 #### Job Set & Match
 > **Description:** AI-powered job application assistant that analyzes job offers and generates tailored application materials using Claude AI, helping to streamline the job search process.
-> **Description:** AI-powered job application assistant that evaluates the fit between a candidate's profile and job offers by analyzing compatibility, generating detailed assessments and providing tailored application materials using Claude AI.
 >
 > **Challenge:** Implementing efficient PDF processing and prompt engineering to extract relevant information from job offers and generate personalized cover letters. Managing API costs and cache strategy while ensuring accurate analysis of job requirements against personal profile.
 >
