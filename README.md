@@ -1,6 +1,6 @@
 ## Hi / Hola / Bonjour 👋
 
-**Data Accelerator | Digital Project Management Background**
+**Digital Project Management | Data Accelerator**
 
 With 10+ years of experience in digital transformation and project management, I'm currently focusing on data science and AI to drive innovation and impactfull technologies. My unique perspective combines strategic vision with technical expertise.
 
